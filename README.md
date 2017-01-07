@@ -1,2 +1,2 @@
 # welcome
-First github project
+Xtratosfera is an IT company especialized in Cloud Solutions
